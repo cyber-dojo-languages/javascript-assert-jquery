@@ -3,7 +3,7 @@
     "hikerTest.js",
     "hiker.js",
     "hiker.html",
-    "jQueryDom.js",
+    "jQueryAdapter.js",
     "cyber-dojo.sh",
     ".jshintrc"
   ],

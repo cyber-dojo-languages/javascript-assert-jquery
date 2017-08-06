@@ -1,10 +1,10 @@
 'use strict';
 
-module.exports = answer;
-
-const jQueryDOM = require('./jQueryDom.js');
-const $ = jQueryDOM('hiker.html');
+const jqa = require('./jQueryAdapter.js');
 
 function answer() {
+  const $ = jqa.file('hiker.html');
   return $('answer').text();
 }
+
+module.exports = answer;
