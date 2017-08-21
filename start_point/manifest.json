@@ -1,4 +1,6 @@
 {
+  "display_name": "Javascript, assert+jQuery",
+
   "visible_filenames": [
     "hikerTest.js",
     "hiker.js",
@@ -8,11 +10,11 @@
     ".jshintrc"
   ],
 
+  "image_name": "cyberdojofoundation/javascript-node_assert-jquery",
+
   "filename_extension" : ".js",
 
   "tab_size": 2,
 
-  "display_name": "Javascript, assert+jQuery",
-
-  "image_name": "cyberdojofoundation/javascript-node_assert-jquery"
+  "runner_choice": "stateless"
 }
