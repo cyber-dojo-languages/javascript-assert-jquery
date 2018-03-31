@@ -12,7 +12,7 @@
 
   "image_name": "cyberdojofoundation/javascript-node_assert-jquery",
 
-  "filename_extension" : ".js",
+  "filename_extension": [ ".js", ".html" ],
 
   "tab_size": 2,
 
