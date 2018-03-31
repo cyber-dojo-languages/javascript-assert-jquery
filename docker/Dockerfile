@@ -9,4 +9,3 @@ WORKDIR /usr/local/lib/node_modules
 RUN npm install jsdom
 RUN npm install jquery
 ENV NODE_PATH /usr/local/lib/node_modules
-
