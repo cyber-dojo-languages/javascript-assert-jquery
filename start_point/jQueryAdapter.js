@@ -1,8 +1,8 @@
 'use strict';
 
 const fs = require('fs');
-const { JSDOM } = require('jsdom');
 const jquery = require('jquery');
+const { JSDOM } = require('jsdom');
 
 const jQueryAdapter = {
   dom:function(html) {
