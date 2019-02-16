@@ -14,7 +14,5 @@
 
   "filename_extension": [ ".js", ".html" ],
 
-  "tab_size": 2,
-
-  "runner_choice": "stateless"
+  "tab_size": 2
 }
