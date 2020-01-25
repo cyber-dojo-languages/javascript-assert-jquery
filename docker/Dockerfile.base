@@ -1,4 +1,4 @@
-FROM  cyberdojofoundation/javascript-node_assert
+FROM cyberdojofoundation/javascript-node_assert
 LABEL maintainer=jon@jaggersoft.com
 
 # reinstall npm. See https://github.com/npm/npm/issues/14232
