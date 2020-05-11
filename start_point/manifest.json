@@ -1,7 +1,8 @@
 {
   "display_name": "Javascript, assert+jQuery",
-
-  "visible_filenames": [
+  "image_name": "cyberdojofoundation/javascript-node_assert-jquery",
+  "visible_filenames":
+  [
     "hikerTest.js",
     "hiker.js",
     "hiker.html",
@@ -9,10 +10,7 @@
     "cyber-dojo.sh",
     ".jshintrc"
   ],
-
-  "image_name": "cyberdojofoundation/javascript-node_assert-jquery",
-
   "filename_extension": [ ".js", ".html" ],
-
+  "max_seconds": 10,
   "tab_size": 2
 }
