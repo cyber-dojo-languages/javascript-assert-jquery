@@ -1,6 +1,6 @@
 {
   "display_name": "Javascript, assert+jQuery",
-  "image_name": "cyberdojofoundation/javascript-node_assert-jquery",
+  "image_name": "cyberdojofoundation/javascript_node_assert_jquery",
   "visible_filenames":
   [
     "hikerTest.js",
