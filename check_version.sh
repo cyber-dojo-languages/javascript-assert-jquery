@@ -15,7 +15,7 @@ function echo_package_version()
 }
 
 readonly MY_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-readonly EXPECTED=3.7.1
+readonly EXPECTED=3.7
 readonly ACTUAL="$(echo_package_version jquery)"
 
 #echo_package_version jsdom
