@@ -1,9 +1,9 @@
 {
   "devDependencies": {
-    "jquery": "3.7.1",
+    "jquery": "*",
     "jsdom": "*",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.1.2",
+    "eslint-config-prettier": "*",
+    "eslint-plugin-prettier": "*",
     "prettier": "*"
   }
 }
